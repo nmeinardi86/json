@@ -2,7 +2,7 @@
  "nombre":"Dirección",
  "img":"direccion.jpg",
  "areapadre":"General",
- "site":"direccion.html"},
+ "site":"direccion.html"}
 {"organizacion":"Marelli Constructora SA","nombre":"Presupuesto","img":"presupuesto.jpg","areapadre":"General","site":"prespuesto.html"},
 {"organizacion":"Marelli Constructora SA","nombre":"Administracion","img":"administracion.jpg","areapadre":"General","site":"administracion.html"},
 {"organizacion":"Marelli Constructora SA","nombre":"Calidad","img":"sistemas.jpg","areapadre":"General","site":"sistemas.html"},
