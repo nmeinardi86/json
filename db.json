@@ -1,1 +1,11 @@
-{"organizacion":"Marelli Constructora SA","nombre":"Dirección","img":"direccion.jpg","areapadre":"General","site":"direccion.html"},{"organizacion":"Marelli Constructora SA","nombre":"Presupuesto","img":"presupuesto.jpg","areapadre":"General","site":"prespuesto.html"},{"organizacion":"Marelli Constructora SA","nombre":"Administracion","img":"administracion.jpg","areapadre":"General","site":"administracion.html"},{"organizacion":"Marelli Constructora SA","nombre":"Calidad","img":"sistemas.jpg","areapadre":"General","site":"sistemas.html"},{"organizacion":"Marelli Constructora SA","nombre":"Obras","img":"sistemas.jpg","areapadre":"General","site":"sistemas.html"},{"organizacion":"Marelli Constructora SA","nombre":"Equipos","img":"sistemas.jpg","areapadre":"Administracion","site":"sistemas.html"},{"organizacion":"Marelli Constructora SA","nombre":"Sistemas","img":"sistemas.jpg","areapadre":"Administracion","site":"sistemas.html"}
+{"organizacion":"Marelli Constructora SA",
+ "nombre":"Dirección",
+ "img":"direccion.jpg",
+ "areapadre":"General",
+ "site":"direccion.html"},
+{"organizacion":"Marelli Constructora SA","nombre":"Presupuesto","img":"presupuesto.jpg","areapadre":"General","site":"prespuesto.html"},
+{"organizacion":"Marelli Constructora SA","nombre":"Administracion","img":"administracion.jpg","areapadre":"General","site":"administracion.html"},
+{"organizacion":"Marelli Constructora SA","nombre":"Calidad","img":"sistemas.jpg","areapadre":"General","site":"sistemas.html"},
+{"organizacion":"Marelli Constructora SA","nombre":"Obras","img":"sistemas.jpg","areapadre":"General","site":"sistemas.html"},
+{"organizacion":"Marelli Constructora SA","nombre":"Equipos","img":"sistemas.jpg","areapadre":"Administracion","site":"sistemas.html"},
+{"organizacion":"Marelli Constructora SA","nombre":"Sistemas","img":"sistemas.jpg","areapadre":"Administracion","site":"sistemas.html"}
