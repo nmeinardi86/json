@@ -1,5 +1,12 @@
-{"organizacion":"Marelli Constructora SA",
- "nombre":"Dirección",
- "img":"direccion.jpg",
+[{"organizacion":"Marelli Constructora SA",
+  "nombre":"Dirección",
+  "img":"direccion.jpg",
+  "areapadre":"General",
+  "site":"direccion.html"}
+ 
+ {"organizacion":"Marelli Constructora SA",
+ "nombre":"Presupuesto",
+ "img":"presupuesto.jpg",
  "areapadre":"General",
- "site":"direccion.html"}
+ "site":"prespuesto.html"}
+]
